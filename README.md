@@ -1,3 +1,3 @@
 # Enterprise-grade company name generator
 
-This trivial app is used during the "intro to Docker" workshops and tutorials.
+This trivial app is used during the Protranet workshops and tutorials.
